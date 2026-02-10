@@ -14,7 +14,7 @@ class TextBPEBuffer(Dataset):
         self.block_size = block_size
         text = Path(path).read_text(encoding='utf-8')
         self.ids = torch.tensor(tokenizer.encode(text), dtype=torch.long)
-    def __len__(self, i: int):
+    def __len__(self):
         return max(0, self.ids.numel() - self.block_size - 1)
     def __getitem__(self, i: int):
         x = self.ids[i:i+self.block_size]

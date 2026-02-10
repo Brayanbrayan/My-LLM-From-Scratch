@@ -9,7 +9,13 @@ import torch.nn as nn
 
 #so we can import part 3 model
 from pathlib import Path as _P
-sys.path.append(str(_p(__file__).resolve().parents[1] / 'part_3'))
+part3_path = Path(__file__).resolve().parents[1] / 'part 3'
+sys.path.insert(0, str(part3_path))
+
+# Debug: verify the path exists
+if not part3_path.exists():
+    raise FileNotFoundError(f"Cannot find part 3 directory at: {part3_path}")
+
 from model_modern import GPTModern
 
 from tokenizer_bpe import BPETokenizer
@@ -17,7 +23,7 @@ from dataset_bpe import make_loader
 from lr_scheduler import WarmupCosineLR
 from amp_accum import AmpGrad
 from checkpointing import (
-     load_checkpoint,
+    load_checkpoint,
     _log_hparams_tb,
     _maybe_log_graph_tb,
     _is_tb,
@@ -94,7 +100,7 @@ def main():
                 "Checkpoint is missing 'config'."
                 "Please re-save a checkpoint that includes the model config."
             )
-        top_file = ckpt_path.with_name("tokenizer_dir.txt")
+        tok_file = ckpt_path.with_name("tokenizer_dir.txt")
         saved_tok_dir = tok_file.read_text().strip() if tok_file.exists() else None
 
 
@@ -102,7 +108,7 @@ def main():
     tok = None
     tok_dir = None
     if have_ckpt:
-        if not saved_to_dir:
+        if not saved_tok_dir:
             raise RuntimeError(
                 "Checkpoint was found but tokenizer_dir.txt is missing."
                 "Resume requires the original tokenizer"
@@ -170,7 +176,7 @@ def main():
     save_requested = {"flag": False}
     def _on_term(sig, frame): save_requested["flag"] = True
     signal.signal(signal.SIGTERM, _on_term)
-    signal.signal(signal.SGINT, _on_term)
+    signal.signal(signal.SIGINT, _on_term)
 
     # --- train loop ----
     model.train()
@@ -178,7 +184,7 @@ def main():
         for xb, yb in train_loader:
             if step >= args.steps: break
             if save_requested["flag"]:
-                atomic_save_all(model, optim, sched, amp, step, out_sir, tok_dir, args.keep_last_k, cfg_build)
+                atomic_save_all(model, optim, sched, amp, step, out_dir, tok_dir, args.keep_last_k, cfg_build)
                 print(f"[signal] Saved checkpoint at step {step} to {out_dir}. Exiting.")
                 return
             
@@ -201,7 +207,7 @@ def main():
 
                     # logging
                     if step % 50 == 0:
-                        logger.log(step, loss=Float(loss.item()), lr=float(lr))
+                        logger.log(step, loss=float(loss.item()), lr=float(lr))
                         _log_runtime(logger, step, it_t0, xb, device)
                         _log_model_stats(logger, model, step, do_hists=False)
                         _maybe_log_attention(logger, model, xb, step, every=100)
@@ -211,7 +217,8 @@ def main():
     atomic_save_all(model, optim, sched, amp, step, out_dir, tok_dir, args.keep_last_k, cfg_build)
     print(f"Saved checkpoint to {out_dir}/model_last.pt")
 
+    logger.close()
 
-    if __name__ == '__main__':
-        main()
+if __name__ == '__main__':
+    main()
 

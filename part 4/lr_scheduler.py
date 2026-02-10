@@ -4,7 +4,7 @@ class WarmupCosineLR:
     """Linear warmup -> cosine decay (per-step API)"""
     def __init__(self, optimizer, warmup_steps: int, total_steps: int, base_lr: float):
         self.optimizer = optimizer
-        self.warmup_steps = mac(1, warmup_steps)
+        self.warmup_steps = max(1, warmup_steps)
         self.total_steps = max(self.warmup_steps+1, total_steps)
         self.base_lr = base_lr
         self.step_num = 0

@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 from typing import Any, Dict, Optional, Tuple
 import sys
-sys.path.append(str(Path(__file__).resolve().parents[1]/'part_3'))
+sys.path.append(str(Path(__file__).resolve().parents[1]/'part 3'))
 import time
 import torch
 import shutil
@@ -13,11 +13,10 @@ DEF_NAME = "model_last.pt"
 
 # ---------------------- TB-only helpers (safe no ops otherwise) --------------#
 def _is_tb(logger) -> bool:
-    return getarr(logger, "w", None) is not None
-
+    return getattr(logger, "w", None) is not None
 
 # checkpointing._log_hparams_tb
-def _log_params_tb(logger, args, total_steps):
+def _log_hparams_tb(logger, args, total_steps):
     if not _is_tb(logger): return
     try:
         h = dict(
@@ -138,7 +137,7 @@ def _log_runtime(logger, step: int, it_t0: float, xb, device):
     except Exception:
         pass
 
-def _log_samples_tb(logger, model, tok, xb, device, step: int, max_new_tokens, temperature=1.0, top_k=50)
+def _log_samples_tb(logger, model, tok, xb, device, step: int, max_new_tokens, temperature=1.0, top_k=50):
     if not _is_tb(logger): return
     if tok is None: return
     try:
@@ -153,7 +152,7 @@ def _log_samples_tb(logger, model, tok, xb, device, step: int, max_new_tokens, t
 
     # ------------------------------------------------------------------- #
 
-    def _extract_config_from_model(model) -> dict:
+def _extract_config_from_model(model) -> dict:
         """
         Best-effort extraction of GPTModern-like config including GQA fields.
         """
@@ -226,7 +225,7 @@ def _verify_model_matches(model, cfg: Dict[str, Any]) -> Tuple[bool, str]:
         "n_embd":     int(first_blk.attn.n_head * first_blk.attn.d_head),
         "n_kv_head":  int(getattr(first_blk.attn, "n_kv_head", first_blk.attn.n_head)),
     })
-    diffs = [f"{k}: ckpt={expected[k]} vs model={got[k]}" for k in excepted if expected[k] != got[k]]
+    diffs = [f"{k}: ckpt={excepted[k]} vs model={got[k]}" for k in excepted if excepted[k] != got[k]]
     if diffs:
         return False, "Architecture mismatch:\n " + "\n ".join(diffs)
     return True, "ok"

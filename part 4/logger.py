@@ -96,7 +96,7 @@ class TBLogger(NoopLogger):
     def text(self, tag: str, text: str, step: Optional[int] = None):
         if not self.w: return
         try:
-            self.w_add_text(tag, text, global_step=step)
+            self.w.add_text(tag, text, global_step=step)
         except Exception:
             pass
 
@@ -125,6 +125,7 @@ class TBLogger(NoopLogger):
             return
         try:
             # Single, stable sub-run so it doesn't spam the left pane
+            # we add a dummy metric to 'kick' the HParams tab into appearig
             self.w.add_hparams(hparams, metrics_once or {}, run_name="_hparams")
             self.hparams_logged = True
         except Exception:
