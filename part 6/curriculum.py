@@ -3,7 +3,7 @@ from typing import List
 
 class LengthCurriculum:
     """6.3 Curriculum: iterate examples from short->long prompts (one pass demo)."""
-    def __init__(self, items: List[tuples[str,str]]):
+    def __init__(self, items: List[tuple[str,str]]):
         self.items = sorted(items, key=lambda p: len(p[0]))
         self._i = 0
     def __iter__(self):
