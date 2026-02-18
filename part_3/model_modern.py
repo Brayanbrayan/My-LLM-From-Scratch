@@ -86,8 +86,9 @@ class GPTModern(nn.Module):
             idx = torch.cat([idx, next_id], dim=1)
 
             #addition from part 6 for early stopping
-            #if eos_id is (next_id == eos_id).all():
-                #break
+            if eos_id is not None:
+                if (next_id == eos_id).all():
+                    break
         return idx
 
     @torch.no_grad()

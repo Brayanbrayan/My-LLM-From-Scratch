@@ -2,7 +2,7 @@ from collator_sft import SFTCollator
 from formatters import Example
 
 def test_masking_sets_prompt_to_ignore():
-    col = SFTCollator(block_size=256, bpe_dir='../part 4/runs/part4-demo/tokenizer')
+    col = SFTCollator(block_size=256, bpe_dir='../part_4/runs/part4-demo/tokenizer')
     text = "This is a tiny test."
     x, y = col.collate([(text, "OK")])
     # All labels up to response marker should be -100
