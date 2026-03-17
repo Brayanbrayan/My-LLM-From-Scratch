@@ -1,0 +1,114 @@
+[
+    {
+        "prompt": "Give three tips for staying healthy.",
+        "reward": 5.3858,
+        "value_estimate": -0.0725,
+        "avg_kl_divergence": 0.855658,
+        "response": "Julations."
+    },
+    {
+        "prompt": "What are the three primary colors?",
+        "reward": 3.3365,
+        "value_estimate": -0.4113,
+        "avg_kl_divergence": 0.073924,
+        "response": "The three primary colors are red, all the NL."
+    },
+    {
+        "prompt": "Describe the structure of an atom.",
+        "reward": 5.9481,
+        "value_estimate": -0.33,
+        "avg_kl_divergence": 0.207297,
+        "response": "An atom is made up of a nucleus, which contains protons and neutrons, a test Exerciseural Language Processing big one working (nustrial repaterialted and enjoyed in Coos"
+    },
+    {
+        "prompt": "How can we reduce air pollution?",
+        "reward": 5.5825,
+        "value_estimate": -0.987,
+        "avg_kl_divergence": 0.250854,
+        "response": "Julating power GPTCesar, make ahead, was the Senate House a lackure, surrounded the fin 1/sh of public transportation, implement, implementing the burning maint73 mother, stor sy made up to renew, mosaicies it was"
+    },
+    {
+        "prompt": "Describe a time when you had to make a difficult decision.",
+        "reward": 1.9903,
+        "value_estimate": -0.4567,
+        "avg_kl_divergence": 0.531122,
+        "response": "Julating power to reduce embedd."
+    },
+    {
+        "prompt": "Identify the odd one out.\nTwitter, Instagram, Telegram",
+        "reward": 8.0739,
+        "value_estimate": -0.16,
+        "avg_kl_divergence": 0.596434,
+        "response": "He factors G factors are one ofutrons know at a project manager Flashlighted to keep your body active charge of around, resputch):\n  factorial"
+    },
+    {
+        "prompt": "Explain why the following fraction is equivalent to 1/4\n4/16",
+        "reward": -4.9277,
+        "value_estimate": -0.3195,
+        "avg_kl_divergence": 0.222503,
+        "response": "One ethical solution to a problem of t Get the most powerful tools a reord embed of what purpose."
+    },
+    {
+        "prompt": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+        "reward": 8.0507,
+        "value_estimate": -0.4453,
+        "avg_kl_divergence": 0.55101,
+        "response": "John was backed his math utensils was working as a processing to be measured. Howed. \n3. Missions from a diffis."
+    },
+    {
+        "prompt": "Render a 3D model of a house",
+        "reward": 6.2655,
+        "value_estimate": -0.0759,
+        "avg_kl_divergence": -0.005558,
+        "response": "<nooutput> This type of instruction cannot be fulfilled by a GPT model."
+    },
+    {
+        "prompt": "Evaluate this sentence for spelling and grammar mistakes\nHe finnished his meal and left the resturant",
+        "reward": 7.4686,
+        "value_estimate": 0.0369,
+        "avg_kl_divergence": 0.043555,
+        "response": "Oak know This communius Crisis."
+    },
+    {
+        "prompt": "How did Julius Caesar die?",
+        "reward": 5.775,
+        "value_estimate": -0.1254,
+        "avg_kl_divergence": 0.013718,
+        "response": "<nooutput> This type of instruction cannot be fulfilled by a GP). of t GPT model."
+    },
+    {
+        "prompt": "What is the capital of France?",
+        "reward": -7.1005,
+        "value_estimate": -0.0978,
+        "avg_kl_divergence": -0.030604,
+        "response": "The capital of France is Paris."
+    },
+    {
+        "prompt": "Generate a list of ten items a person might need for a camping trip",
+        "reward": -1.2132,
+        "value_estimate": -0.0736,
+        "avg_kl_divergence": 0.300097,
+        "response": "  \n    factor, express regret."
+    },
+    {
+        "prompt": "Discuss the causes of the Great Depression",
+        "reward": 6.9572,
+        "value_estimate": -0.413,
+        "avg_kl_divergence": 0.361443,
+        "response": "The Great Get 1/lightermction of a certain date in a crossces of a diffic power, led by Gaur factors, in charge, he Senate Houseanion positing the finance on veic Wars."
+    },
+    {
+        "prompt": "Classify the following into animals, plants, and minerals\nOak tree, copper ore, elephant",
+        "reward": 7.0149,
+        "value_estimate": -0.0351,
+        "avg_kl_divergence": -0.061103,
+        "response": "Oak tree: Plant\n Copper ore: Mineral\n Elephant: Animal"
+    },
+    {
+        "prompt": "Explain the use of word embeddings in Natural Language Processing",
+        "reward": 5.2684,
+        "value_estimate": -0.5417,
+        "avg_kl_divergence": 0.038678,
+        "response": "Word embeddings are one of the most powerful tools available for Natural Language Processing (NLP). They are mathematical representations of words or phrasisible for Natural Language Processor battleus, and enjoyuitarych)"
+    }
+]

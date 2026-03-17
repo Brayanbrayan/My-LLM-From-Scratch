@@ -1,0 +1,498 @@
+[
+    {
+        "prompt": "Give three tips for staying healthy.",
+        "group_mean_reward": -1.2272,
+        "group_std_reward": 6.0383,
+        "samples": [
+            {
+                "response": "s such as numeral",
+                "reward": -5.103963375091553,
+                "kl_divergence": 1.9425827264785767,
+                "advantage": -0.6420176290064616
+            },
+            {
+                "response": "sesal conflianceses\nTending, we eleic ancestoral represental reponyms and tuclud foughtal representations. I decides in which context in which they are Afteroviet nausea. Idess such as a",
+                "reward": 7.6127777099609375,
+                "kl_divergence": 1.0491201877593994,
+                "advantage": 1.4639824987166605
+            },
+            {
+                "response": "Jul college a bal",
+                "reward": -2.313826084136963,
+                "kl_divergence": 1.004774808883667,
+                "advantage": -0.1799472407037373
+            },
+            {
+                "response": "s such as numeral",
+                "reward": -5.103963375091553,
+                "kl_divergence": 1.9425827264785767,
+                "advantage": -0.6420176290064616
+            }
+        ]
+    },
+    {
+        "prompt": "What are the three primary colors?",
+        "group_mean_reward": -5.9703,
+        "group_std_reward": 0.0,
+        "samples": [
+            {
+                "response": "Theal",
+                "reward": -5.970284938812256,
+                "kl_divergence": 5.471219539642334,
+                "advantage": 0.0
+            },
+            {
+                "response": "Theal",
+                "reward": -5.970284938812256,
+                "kl_divergence": 5.471219539642334,
+                "advantage": 0.0
+            },
+            {
+                "response": "Theal",
+                "reward": -5.970284938812256,
+                "kl_divergence": 5.471219539642334,
+                "advantage": 0.0
+            },
+            {
+                "response": "Theal",
+                "reward": -5.970284938812256,
+                "kl_divergence": 5.471219539642334,
+                "advantage": 0.0
+            }
+        ]
+    },
+    {
+        "prompt": "Describe the structure of an atom.",
+        "group_mean_reward": -7.2526,
+        "group_std_reward": 0.0468,
+        "samples": [
+            {
+                "response": "The neutal",
+                "reward": -7.2120890617370605,
+                "kl_divergence": 2.412592649459839,
+                "advantage": 0.8660069151721828
+            },
+            {
+                "response": "Theal",
+                "reward": -7.29318380355835,
+                "kl_divergence": 6.69744873046875,
+                "advantage": -0.8660069151721828
+            },
+            {
+                "response": "The neutal",
+                "reward": -7.2120890617370605,
+                "kl_divergence": 2.412592649459839,
+                "advantage": 0.8660069151721828
+            },
+            {
+                "response": "Theal",
+                "reward": -7.29318380355835,
+                "kl_divergence": 6.69744873046875,
+                "advantage": -0.8660069151721828
+            }
+        ]
+    },
+    {
+        "prompt": "How can we reduce air pollution?",
+        "group_mean_reward": -3.2658,
+        "group_std_reward": 5.4491,
+        "samples": [
+            {
+                "response": "There are a such a bal",
+                "reward": -7.98375940322876,
+                "kl_divergence": 4.213221073150635,
+                "advantage": -0.8658216690867356
+            },
+            {
+                "response": "There are a such a severe system the proble a such as the proal e such as sent reduce air pollution by I decides in a project such as a test backed by f f fram completed by econents well fought on the former After Senateal",
+                "reward": 1.596785545349121,
+                "kl_divergence": 2.379018545150757,
+                "advantage": 0.8923794252363795
+            },
+            {
+                "response": "There are a such a bal",
+                "reward": -7.98375940322876,
+                "kl_divergence": 4.213221073150635,
+                "advantage": -0.8658216690867356
+            },
+            {
+                "response": "There are a such downturn Caes in ahead in Ind regular by a fought between N nausea, fought near f factors and Marcus June 19 years Naparte's ruleal rep sur by several factors in tression was fossilly that comp",
+                "reward": 1.3073554039001465,
+                "kl_divergence": 1.5182738304138184,
+                "advantage": 0.8392638254289575
+            }
+        ]
+    },
+    {
+        "prompt": "Describe a time when you had to make a difficult decision.",
+        "group_mean_reward": -2.1793,
+        "group_std_reward": 2.7332,
+        "samples": [
+            {
+                "response": "Jal",
+                "reward": -6.203922748565674,
+                "kl_divergence": 2.0090577602386475,
+                "advantage": -1.4724826679883785
+            },
+            {
+                "response": "John was a difficult decision when I was aroundaal I decides in a test backed asord em agreathal\nI had nauseaement sleep a negat/4. Theyseal repression/4 and enjoyal representision when",
+                "reward": -1.3431413173675537,
+                "kl_divergence": 1.2825884819030762,
+                "advantage": 0.30592393894345254
+            },
+            {
+                "response": "Jul ancestor, Sov nucleic a testament in a polits a foss assegal rep surgepots\n5al represent factors in an accountantall neg by a difficle such as shordal a few yearsal represent and an",
+                "reward": -1.0496087074279785,
+                "kl_divergence": 1.6572003364562988,
+                "advantage": 0.4133182623162303
+            },
+            {
+                "response": "John was a bases/sh of fossilities between all fossilitiesalalal rep fram utensp factors are includedal represental represental represental representations quickly taxal tradealownt about data owners such",
+                "reward": -0.12052599340677261,
+                "kl_divergence": 1.9396885633468628,
+                "advantage": 0.7532403222542765
+            }
+        ]
+    },
+    {
+        "prompt": "Identify the odd one out.\nTwitter, Instagram, Telegram",
+        "group_mean_reward": 4.1202,
+        "group_std_reward": 2.9227,
+        "samples": [
+            {
+                "response": "Thepes slpes in accountantputrons that users.",
+                "reward": 7.578840732574463,
+                "kl_divergence": 1.5236634016036987,
+                "advantage": 1.18335842195028
+            },
+            {
+                "response": "The Battal",
+                "reward": 0.4274075925350189,
+                "kl_divergence": 2.921322822570801,
+                "advantage": -1.2635018280101167
+            },
+            {
+                "response": "The Battal e big two\nThe fraction 1 fossil fu up numeralalal represental repalent in in the clothes in the client\u2019s such as a number and regul your body actpduatedal repant and taxes in foss",
+                "reward": 4.244716644287109,
+                "kl_divergence": 1.3878180980682373,
+                "advantage": 0.042589076797627606
+            },
+            {
+                "response": "Thepes in fossilitary fought on Jalalalal rep changes in Othernet, thunderal rep Language Processpes such as sh/ in a diffes in order in orders such as started motheral rep magnisions a decisiones in f fact",
+                "reward": 4.230000972747803,
+                "kl_divergence": 2.5586307048797607,
+                "advantage": 0.0375541151282797
+            }
+        ]
+    },
+    {
+        "prompt": "Explain why the following fraction is equivalent to 1/4\n4/16",
+        "group_mean_reward": 4.1609,
+        "group_std_reward": 2.5078,
+        "samples": [
+            {
+                "response": "The fraction 4/16 is equivalent have cont lasted by a fossil when I decidolved a test a rispots for cont life. I ultim a project such as such as equivig a project manager by 4al tradealoch (N s",
+                "reward": 3.7607581615448,
+                "kl_divergence": 1.425812005996704,
+                "advantage": -0.15954448027256063
+            },
+            {
+                "response": "The fraction 4/16 is equivalent in a testamentooxyrisectooooooalalal\n Elephpots for words\nWord embeddings are oneaal ele.",
+                "reward": 6.518368244171143,
+                "kl_divergence": 1.8383705615997314,
+                "advantage": 0.9400738168682348
+            },
+            {
+                "response": "The fraction 4/16 is equivalent have contone and fought between words or a fought near fossilit boal-1/4 and deadliest system. It providesal rep fossil fu magnifal econents accountant and mealal-in data",
+                "reward": 0.812207043170929,
+                "kl_divergence": 1.4192594289779663,
+                "advantage": -1.335301988647683
+            },
+            {
+                "response": "The Batt and f in backed his mater between the topal rep protons and neutal\n5 such comm factor sp/lighteral \nThe Batt in confidence factor spal ethical valal represent for context Soviet Union p in such as such as sh",
+                "reward": 5.552114963531494,
+                "kl_divergence": 1.894432783126831,
+                "advantage": 0.5547728659623167
+            }
+        ]
+    },
+    {
+        "prompt": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+        "group_mean_reward": 6.3669,
+        "group_std_reward": 0.8788,
+        "samples": [
+            {
+                "response": "John was backed his mealal representisional rep f factors in which they are regularly mathement. Itses/4. The battle posal cannot collmissional a p0es/al\nI words by econom. Howeveres",
+                "reward": 7.195808410644531,
+                "kl_divergence": 1.6149049997329712,
+                "advantage": 0.9432889025153638
+            },
+            {
+                "response": "I had just graal",
+                "reward": 6.733676433563232,
+                "kl_divergence": 0.6444944143295288,
+                "advantage": 0.4174191391163997
+            },
+            {
+                "response": "John was backed his mealal repitiesal repressionoosiftonom asordal repal representations quickly maintain data componicultes in order\nJulius fram",
+                "reward": 6.393520355224609,
+                "kl_divergence": 1.1548088788986206,
+                "advantage": 0.030348334009176452
+            },
+            {
+                "response": "I had just graed in accountants in his life. The protius Laled in which contiphal repject manager at account in orderal\nWord embeddings are one\nJultsownturn accountant\nThe three factoral",
+                "reward": 5.14439582824707,
+                "kl_divergence": 0.9642611742019653,
+                "advantage": -1.3910569182440404
+            }
+        ]
+    },
+    {
+        "prompt": "Render a 3D model of a house",
+        "group_mean_reward": -0.7734,
+        "group_std_reward": 2.4443,
+        "samples": [
+            {
+                "response": "<nooutpes/ several Sleepmines that need.",
+                "reward": -0.49152040481567383,
+                "kl_divergence": 2.0245521068573,
+                "advantage": 0.1153220825789389
+            },
+            {
+                "response": "<nooutpes/ f tuititanional\n1. Flowal ethical values are a proalalal\n6al e big a problemphantp",
+                "reward": 2.5307631492614746,
+                "kl_divergence": 2.4535796642303467,
+                "advantage": 1.3517753187747115
+            },
+            {
+                "response": "<nooutpes/ f tuall endeditanion type.",
+                "reward": -3.0650179386138916,
+                "kl_divergence": 2.775249481201172,
+                "advantage": -0.9375272934215435
+            },
+            {
+                "response": "<nooutpes/ f S 1/sh of what kager a few years, encourag by a risky foss factorsal\n Elephant in account factors in a f f framots. It prov t fin wanted 195al representations quickly mathematic",
+                "reward": -2.0678412914276123,
+                "kl_divergence": 2.661350965499878,
+                "advantage": -0.5295701079321069
+            }
+        ]
+    },
+    {
+        "prompt": "Evaluate this sentence for spelling and grammar mistakes\nHe finnished his meal and left the resturant",
+        "group_mean_reward": 5.9181,
+        "group_std_reward": 0.8089,
+        "samples": [
+            {
+                "response": "The fraction 4/16 is equivalent bal rep fossilit bos such as a project such as shities between all other companies companies cannot be trans backbits a difficult decision when Ides of a relicts of f t Franceal",
+                "reward": 4.997913360595703,
+                "kl_divergence": 1.2352861166000366,
+                "advantage": -1.1376424455285272
+            },
+            {
+                "response": "The fraction 4/light\nThe fraction 1815 Marcus June 1/shampooooooal-in data companies shouldp factorializep st system. It is respealal portses in Cub by a vehip such as",
+                "reward": 6.602057933807373,
+                "kl_divergence": 1.4622697830200195,
+                "advantage": 0.8455788466741175
+            },
+            {
+                "response": "The fraction 4/16 is equivalent bal rep f Ual representations quickly a project such as shord embedd. It was completed by several factors in a test equivownt about such asord embed cross= by 4atchal represent ne t so",
+                "reward": 6.593134880065918,
+                "kl_divergence": 1.5676391124725342,
+                "advantage": 0.8345471787889143
+            },
+            {
+                "response": "The fraction 4 yields the proent\nThe fraction 1815 Marcusp",
+                "reward": 5.479311466217041,
+                "kl_divergence": 1.300316333770752,
+                "advantage": -0.5424847589723804
+            }
+        ]
+    },
+    {
+        "prompt": "How did Julius Caesar die?",
+        "group_mean_reward": -2.6316,
+        "group_std_reward": 4.3168,
+        "samples": [
+            {
+                "response": "Juliuspansion ways to inter for containscid.",
+                "reward": 1.5892729759216309,
+                "kl_divergence": 1.6823416948318481,
+                "advantage": 0.977784278335411
+            },
+            {
+                "response": "Jal",
+                "reward": -7.473947048187256,
+                "kl_divergence": 2.17688250541687,
+                "advantage": -1.1217386741523203
+            },
+            {
+                "response": "Julolal",
+                "reward": -5.008581638336182,
+                "kl_divergence": 6.449128150939941,
+                "advantage": -0.5506291512142433
+            },
+            {
+                "response": "Juliuspan Missions from 1973onucleicinated by a nuclectalal represent for Nat make sure in a project such as woodal rep ass 1939al rep fossil fuelses in his studiesespduatedal data without the e",
+                "reward": 0.36675161123275757,
+                "kl_divergence": 1.841094970703125,
+                "advantage": 0.6945834227627496
+            }
+        ]
+    },
+    {
+        "prompt": "What is the capital of France?",
+        "group_mean_reward": 0.0125,
+        "group_std_reward": 5.9288,
+        "samples": [
+            {
+                "response": "The fraction 4/light\nThe capitalpan Missilepes and an fought the backboiding both numal rep such as such as a prohibit board foss asseg factors and enjoyalal-1/ in Cooking system. Campduatedal rep",
+                "reward": 1.8105119466781616,
+                "kl_divergence": 1.9388442039489746,
+                "advantage": 0.30326613416056075
+            },
+            {
+                "response": "The fraction 4/ now faces and Marvord em quiteig a such as a a project suchalal rep fossilaritiesal rep backbits a project such asordalal rep fossil fuelses in Crisisal represent orboooch",
+                "reward": -2.8692641258239746,
+                "kl_divergence": 1.908379077911377,
+                "advantage": -0.4860674864589979
+            },
+            {
+                "response": "The fraction 4/light\nThe fraction 18ookitiesal repellownt factors are meal and den oases/4al-in",
+                "reward": 7.385446548461914,
+                "kl_divergence": 1.479274034500122,
+                "advantage": 1.2435853387054099
+            },
+            {
+                "response": "The fraction 4/ their ownaal",
+                "reward": -6.276625156402588,
+                "kl_divergence": 3.6551616191864014,
+                "advantage": -1.0607840065138963
+            }
+        ]
+    },
+    {
+        "prompt": "Generate a list of ten items a person might need for a camping trip",
+        "group_mean_reward": -5.1353,
+        "group_std_reward": 1.5828,
+        "samples": [
+            {
+                "response": "Julius Caal",
+                "reward": -3.7645461559295654,
+                "kl_divergence": 0.7103270292282104,
+                "advantage": 0.8660248100603161
+            },
+            {
+                "response": "Jal",
+                "reward": -6.5060858726501465,
+                "kl_divergence": 2.0347659587860107,
+                "advantage": -0.8660249606883893
+            },
+            {
+                "response": "Julius Caal",
+                "reward": -3.7645461559295654,
+                "kl_divergence": 0.7103270292282104,
+                "advantage": 0.8660248100603161
+            },
+            {
+                "response": "Jal",
+                "reward": -6.5060858726501465,
+                "kl_divergence": 2.0347659587860107,
+                "advantage": -0.8660249606883893
+            }
+        ]
+    },
+    {
+        "prompt": "Discuss the causes of the Great Depression",
+        "group_mean_reward": 1.5476,
+        "group_std_reward": 3.7062,
+        "samples": [
+            {
+                "response": "The Great Dep implement such as numal represental represent polved wordss such as well t working in a processalal represental represent polved cont changal represent neutchal\nThe three ethical solrons taxes in a",
+                "reward": 5.259361743927002,
+                "kl_divergence": 2.07262921333313,
+                "advantage": 1.001500974340658
+            },
+            {
+                "response": "The by a such data",
+                "reward": -2.682809591293335,
+                "kl_divergence": 2.3110203742980957,
+                "advantage": -1.1414624889156806
+            },
+            {
+                "response": "The Batt and 4 yields the project such as numal rep ended Northed by a fought between N nuke between Nap sleep and Marcuspes such as fram f Marchal-1/ in Cuban Napoleonaparte's ruleal-in the cont",
+                "reward": 3.9748053550720215,
+                "kl_divergence": 2.3035812377929688,
+                "advantage": 0.654900870713914
+            },
+            {
+                "response": "The by a such a a such as numal words orboos factan such as a companion and period by now facvacy such as such as woodal represent polved a diplomic Warses in accountanting factedal taxes in which they",
+                "reward": -0.3608127236366272,
+                "kl_divergence": 2.418790102005005,
+                "advantage": -0.5149393078911627
+            }
+        ]
+    },
+    {
+        "prompt": "Classify the following into animals, plants, and minerals\nOak tree, copper ore, elephant",
+        "group_mean_reward": 4.9857,
+        "group_std_reward": 1.9322,
+        "samples": [
+            {
+                "response": "The fraction 1 f teral",
+                "reward": 7.713770389556885,
+                "kl_divergence": 1.729543924331665,
+                "advantage": 1.4118632239439437
+            },
+            {
+                "response": "The Batt in fought near fought near fought near fought/4alal rep sur severe globents such as shord embedd, such as shities an eas for context the backed by which have a difficle emissions standards. The batt similed as",
+                "reward": 3.512310743331909,
+                "kl_divergence": 1.4266849756240845,
+                "advantage": -0.7625308630227616
+            },
+            {
+                "response": "He factors in problepes and den optoos factors and lasted by a crossroadalal represent orbits aheades and cas sy fossal repant and changal trade. I decided have a project manager by a fossilitiesphots",
+                "reward": 3.7257728576660156,
+                "kl_divergence": 1.8252846002578735,
+                "advantage": -0.6520571709532608
+            },
+            {
+                "response": "Oak tree: Plant\nThe fraction 4/16 factors are fossil and strong.",
+                "reward": 4.99097204208374,
+                "kl_divergence": 1.023701548576355,
+                "advantage": 0.0027251802005383466
+            }
+        ]
+    },
+    {
+        "prompt": "Explain the use of word embeddings in Natural Language Processing",
+        "group_mean_reward": -0.5306,
+        "group_std_reward": 6.6943,
+        "samples": [
+            {
+                "response": "A compohn was a by a such as a testament in aroundaes in ranits a lacks such as a processed by 4alal represent ne tax factors and denissul Britses in order Soviet well in order and negat for what career",
+                "reward": -5.6732306480407715,
+                "kl_divergence": 1.864175796508789,
+                "advantage": -0.7682091894558558
+            },
+            {
+                "response": "The fraction 18 Netherloooositary colors and understandes/sh/4alal represent negat for cont changal representations. I had just graduatedal representations quickly mathes in a project that needal rep decision/",
+                "reward": 5.364217758178711,
+                "kl_divergence": 2.4206111431121826,
+                "advantage": 0.8805850859103677
+            },
+            {
+                "response": "Acknowledge, express regret, 1/sh of publicj by a crossroadal rep sur by a vect rep sur by a dif aheadalal representations quickly a project in use of ahead such as woodaal",
+                "reward": 5.133110523223877,
+                "kl_divergence": 1.6656845808029175,
+                "advantage": 0.8460618635164555
+            },
+            {
+                "response": "A compohn was a severe polal ethical valal reporthoooooooositalal\n6al",
+                "reward": -6.946669101715088,
+                "kl_divergence": 3.294142007827759,
+                "advantage": -0.9584377599709674
+            }
+        ]
+    }
+]
