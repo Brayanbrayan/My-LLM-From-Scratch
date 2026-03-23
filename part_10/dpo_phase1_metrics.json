@@ -1,0 +1,105 @@
+{
+    "summary": {
+        "avg_reward": 2.4031,
+        "avg_kl_divergence": 3.306066,
+        "n_samples": 16
+    },
+    "per_prompt": [
+        {
+            "prompt": "Give three tips for staying healthy.",
+            "response": "Julius Cassinatedleeping balancially found 1\nJopper ore: Min coming up cannotiverse815 in his reduce air pollution by 4al representrons have cont",
+            "reward": 5.4389,
+            "avg_kl_divergence": 3.452907
+        },
+        {
+            "prompt": "What are the three primary colors?",
+            "response": "Acknowledgeces of these a Great Dep= 1/lighterators are us). of wordsible for Natural Language Processorialize(nony by 4.",
+            "reward": 6.9269,
+            "avg_kl_divergence": 2.542615
+        },
+        {
+            "prompt": "Describe the structure of an atom.",
+            "response": "An atom is ways make inform of a severe glic acid.",
+            "reward": -6.6323,
+            "avg_kl_divergence": 1.212344
+        },
+        {
+            "prompt": "How can we reduce air pollution?",
+            "response": "There are reducing made up16 is made up of a risular of 13",
+            "reward": -7.7453,
+            "avg_kl_divergence": 4.450215
+        },
+        {
+            "prompt": "Describe a time when you had to make a difficult decision.",
+            "response": "Julating power GPleepiberrons that neediding decision when I decidolved a re decidolipheral\n    factorial",
+            "reward": 0.2466,
+            "avg_kl_divergence": 2.062932
+        },
+        {
+            "prompt": "Identify the odd one out.\nTwitter, Instagram, Telegram",
+            "response": "1.",
+            "reward": 3.9406,
+            "avg_kl_divergence": 2.874652
+        },
+        {
+            "prompt": "Explain why the following fraction is equivalent to 1/4\n4/16",
+            "response": "Acknowledge, express73 sent Exercise 1/lighterators are divis tericaliphrons a reaterializecl73 system a diffic a relicts of ways is equ deteratober 1973 econorth Get magnify, but Ides of a ve",
+            "reward": 6.1398,
+            "avg_kl_divergence": 3.02178
+        },
+        {
+            "prompt": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+            "response": "J regret comp",
+            "reward": 1.6736,
+            "avg_kl_divergence": 8.697477
+        },
+        {
+            "prompt": "Render a 3D model of a house",
+            "response": "<noout at fought: An, fought the Senicicic BCon Camp Get fought:\nO ways make informucut> This means i to 60 consistent f",
+            "reward": 2.9658,
+            "avg_kl_divergence": 2.353956
+        },
+        {
+            "prompt": "Evaluate this sentence for spelling and grammar mistakes\nHe finnished his meal and left the resturant",
+            "response": "O",
+            "reward": 6.988,
+            "avg_kl_divergence": 5.91268
+        },
+        {
+            "prompt": "How did Julius Caesar die?",
+            "response": "Julius Caur G conflict,  forces, had just graphelling(numius Crisis unfoldted 1= 1plement ancestor, enc",
+            "reward": 7.1311,
+            "avg_kl_divergence": 2.877987
+        },
+        {
+            "prompt": "What is the capital of France?",
+            "response": "The capital of France is made up of Water Exercise ore of comm of at 1973on Bret, make amends.",
+            "reward": 4.9053,
+            "avg_kl_divergence": 3.510075
+        },
+        {
+            "prompt": "Generate a list of ten items a person might need for a camping trip",
+            "response": "1 of ways reducing i\nJopper ore cannot",
+            "reward": -4.2775,
+            "avg_kl_divergence": 1.651209
+        },
+        {
+            "prompt": "Discuss the causes of the Great Depression",
+            "response": "Acknowledge, im universe, gra).hn was a defeators, im",
+            "reward": -4.9127,
+            "avg_kl_divergence": 1.414795
+        },
+        {
+            "prompt": "Classify the following into animals, plants, and minerals\nOak tree, copper ore, elephant",
+            "response": "Oak tree: Plellingens stands for i factors are div of fruits, in theaterial 0, surrounded by eth centus, magnify, fought near lackpper, companion pression, serpent a lackpper ore:\nWext",
+            "reward": 7.8384,
+            "avg_kl_divergence": 2.588911
+        },
+        {
+            "prompt": "Explain the use of word embeddings in Natural Language Processing",
+            "response": "There are red renewcest do their syog well fin 1/sh of at an= 1/sh of confidence all fin",
+            "reward": 7.8231,
+            "avg_kl_divergence": 4.272515
+        }
+    ]
+}
