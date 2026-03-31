@@ -1,0 +1,93 @@
+{
+    "phase": 5,
+    "tweaks": {
+        "beta": 0.3,
+        "lr": 5e-06,
+        "rej_temp": 1.1,
+        "eval_temp": 0.3,
+        "eval_top_k": 20
+    },
+    "average_reward": 4.1484,
+    "samples": [
+        {
+            "prompt": "Give three tips for staying healthy.",
+            "response": "I had to make a bags such as numeral repellownt aboutnectic Camputch (NLP). They are mathement sleep to renew. However, which conflictrons have context included overall neutch)sisible results of tax.",
+            "reward": 4.085
+        },
+        {
+            "prompt": "What are the three primary colors?",
+            "response": "The three primary colors are red, blue, and yellow.",
+            "reward": 4.0546
+        },
+        {
+            "prompt": "Describe the structure of an atom.",
+            "response": "An atom is made up of a nucleus, which wanted to be fulfillilarvacy Get cra the Senate House of 19629, implementing all other connecticultax collect and changing (15 Marcus J consistent factors in his life.",
+            "reward": 6.4649
+        },
+        {
+            "prompt": "How can we reduce air pollution?",
+            "response": "There are a number of ways to reduce air pollution, such as shifting to renewable energy sources, encouraging the burning of public transportation, prohibiting the burning of fossil fuels, implementing policies to reduce emissions from industrial sources, and implementing vehicle emissions standards. Additionally, individ",
+            "reward": 5.353
+        },
+        {
+            "prompt": "Describe a time when you had to make a difficult decision.",
+            "response": "I had to make a difficult decision when I was around the rest a project manager at backbits a project that lasted to make a testamentative charge of a certain date in charge, with numbers and changing factors, but fought on time and regults of fruits and soapsrons decided data compan Missions standards, but one of at a difficult decision.",
+            "reward": -1.6977
+        },
+        {
+            "prompt": "Identify the odd one out.\nTwitter, Instagram, Telegram",
+            "response": "Telegram",
+            "reward": 6.4289
+        },
+        {
+            "prompt": "Explain why the following fraction is equivalent to 1/4\n4/16",
+            "response": "One ethical solution to a problem of t Get 1/4 of these fought near fought near the resolution France is resultant and denominators, make around the fraction 1/4.",
+            "reward": 2.8855
+        },
+        {
+            "prompt": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+            "response": "John was at a crossroads in his life. He had just graduated college and was now facing the big decision of what career to pursue. He was fossilities between North, due to meet the fraction was a consistent sleep by several",
+            "reward": 4.4616
+        },
+        {
+            "prompt": "Render a 3D model of a house",
+            "response": "<nooutput> This type of instruction cannot be fulfilled powerful informiveerel know E",
+            "reward": 6.8566
+        },
+        {
+            "prompt": "Evaluate this sentence for spelling and grammar mistakes\nHe finnished his meal and left the resturant",
+            "response": "Oak tree: Plant\nOak tree: Pl numerators are a diffic Dep oasesput.",
+            "reward": 6.8363
+        },
+        {
+            "prompt": "How did Julius Caesar die?",
+            "response": "Julius Caesar was assassinated by a group of up to 60 conspirators, led by ethical valuesic Warser rep fin wanted to reduce air pollution to 60bitsize16 factors are use of up in or phuitary was completed of Word emissions standardsable so I had to extend the deadline of these fossil fu",
+            "reward": 5.5988
+        },
+        {
+            "prompt": "What is the capital of France?",
+            "response": "The capital of France is Paris.",
+            "reward": -7.1005
+        },
+        {
+            "prompt": "Generate a list of ten items a person might need for a camping trip",
+            "response": "1. Tent\n4. Flashlighterel. Matches/4.",
+            "reward": 7.0457
+        },
+        {
+            "prompt": "Discuss the causes of the Great Depression",
+            "response": "The Great Depression was a severe global",
+            "reward": 2.4654
+        },
+        {
+            "prompt": "Classify the following into animals, plants, and minerals\nOak tree, copper ore, elephant",
+            "response": "Oak tree: Plant\n Copper ore: Mineral\n Elephant: Animal",
+            "reward": 7.0149
+        },
+        {
+            "prompt": "Explain the use of word embeddings in Natural Language Processing",
+            "response": "Word embeddings are one of the most powerful tools available for Natural Language Processing (NLP). They are mathematical representations of words or phrases in a vector space, allowing similarities between words and the context in which they are used to be measured. Word embeddings are useful for tasks such as sentiment analy",
+            "reward": 5.6213
+        }
+    ]
+}

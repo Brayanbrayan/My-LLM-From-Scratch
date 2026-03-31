@@ -1,0 +1,122 @@
+[
+    {
+        "step": 10,
+        "loss": 0.577941,
+        "accuracy": 1.0,
+        "reward_margin": 0.818113
+    },
+    {
+        "step": 20,
+        "loss": 0.693147,
+        "accuracy": 0.0,
+        "reward_margin": 0.0
+    },
+    {
+        "step": 30,
+        "loss": 0.112206,
+        "accuracy": 1.0,
+        "reward_margin": 7.102627
+    },
+    {
+        "step": 40,
+        "loss": 1e-06,
+        "accuracy": 1.0,
+        "reward_margin": 45.879066
+    },
+    {
+        "step": 50,
+        "loss": 0.00025,
+        "accuracy": 1.0,
+        "reward_margin": 27.649038
+    },
+    {
+        "step": 60,
+        "loss": 0.066295,
+        "accuracy": 1.0,
+        "reward_margin": 8.934357
+    },
+    {
+        "step": 70,
+        "loss": 0.0,
+        "accuracy": 1.0,
+        "reward_margin": 113.433975
+    },
+    {
+        "step": 80,
+        "loss": 0.0,
+        "accuracy": 1.0,
+        "reward_margin": 128.588028
+    },
+    {
+        "step": 90,
+        "loss": 1.442289,
+        "accuracy": 0.0,
+        "reward_margin": -3.908653
+    },
+    {
+        "step": 100,
+        "loss": 5.604666,
+        "accuracy": 0.0,
+        "reward_margin": -18.66993
+    },
+    {
+        "step": 110,
+        "loss": 0.0,
+        "accuracy": 1.0,
+        "reward_margin": 76.053513
+    },
+    {
+        "step": 120,
+        "loss": 0.000249,
+        "accuracy": 1.0,
+        "reward_margin": 27.655064
+    },
+    {
+        "step": 130,
+        "loss": 3e-06,
+        "accuracy": 1.0,
+        "reward_margin": 42.401958
+    },
+    {
+        "step": 140,
+        "loss": 0.0,
+        "accuracy": 1.0,
+        "reward_margin": 61.480423
+    },
+    {
+        "step": 150,
+        "loss": 0.0,
+        "accuracy": 1.0,
+        "reward_margin": 202.447769
+    },
+    {
+        "step": 160,
+        "loss": 0.0,
+        "accuracy": 1.0,
+        "reward_margin": 201.894714
+    },
+    {
+        "step": 170,
+        "loss": 0.0,
+        "accuracy": 1.0,
+        "reward_margin": 74.858513
+    },
+    {
+        "step": 180,
+        "loss": 0.000442,
+        "accuracy": 1.0,
+        "reward_margin": 25.749512
+    },
+    {
+        "step": 190,
+        "loss": 0.002932,
+        "accuracy": 1.0,
+        "reward_margin": 19.434875
+    },
+    {
+        "step": 200,
+        "loss": 0.0,
+        "accuracy": 1.0,
+        "reward_margin": 261.640472
+    }
+]

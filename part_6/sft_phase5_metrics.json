@@ -1,0 +1,91 @@
+{
+    "phase": 5,
+    "tweaks": {
+        "temperature": 0.3,
+        "top_k": 20,
+        "max_new_tokens": 96
+    },
+    "average_reward": 4.1306,
+    "samples": [
+        {
+            "prompt": "Give three tips for staying healthy.",
+            "response": "sneeze,  fact of (NA comput amends.",
+            "reward": 0.7024
+        },
+        {
+            "prompt": "What are the three primary colors?",
+            "response": "The three primary colors are red, blue, and yellow.",
+            "reward": 4.0546
+        },
+        {
+            "prompt": "Describe the structure of an atom.",
+            "response": "An atom is made up of a nucleus, which contains protons and neutrons, surrounded by electrons that travel in orbits around the nucleus. The protons and neutrons have a positive charge, while the electrons have a negative charge, resulting in an overall neutral atom. The number of each particle determ",
+            "reward": 0.6483
+        },
+        {
+            "prompt": "How can we reduce air pollution?",
+            "response": "There are a number of ways to reduce air pollution, such as shifting to renewable energy sources, encouraging the use of public transportation, prohibiting the burning of fossil fuels, implementing policies to reduce emissions from industrial sources, and implementing vehicle emissions standards. Additionally, individ",
+            "reward": 5.4497
+        },
+        {
+            "prompt": "Describe a time when you had to make a difficult decision.",
+            "response": "Julations. They college and veic power to 1973onom all other wanted to 60 consp",
+            "reward": -2.0385
+        },
+        {
+            "prompt": "Identify the odd one out.\nTwitter, Instagram, Telegram",
+            "response": "Telegram",
+            "reward": 6.4289
+        },
+        {
+            "prompt": "Explain why the following fraction is equivalent to 1/4\n4/16",
+            "response": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.",
+            "reward": 7.0385
+        },
+        {
+            "prompt": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+            "response": "I had just graities between4. The project manager at an oent\n1. GPTendingch (NLPT model. Dutch) of tression was in order\n3. Exercise regularly to be transprodule emissions standardses in his knowled blue, -in had always been= 1/4. He had to make informed seeing the budget.",
+            "reward": 7.1765
+        },
+        {
+            "prompt": "Render a 3D model of a house",
+            "response": "<nooutput> This type of instruction cannot be fulfilled by a GPT model.",
+            "reward": 6.2655
+        },
+        {
+            "prompt": "Evaluate this sentence for spelling and grammar mistakes\nHe finnished his meal and left the resturant",
+            "response": "Oak know This communius Crisis.",
+            "reward": 7.4686
+        },
+        {
+            "prompt": "How did Julius Caesar die?",
+            "response": "Julius Caesar was assassinated by a group of up to 60 conspirators, led by Gaius Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC.",
+            "reward": 6.4924
+        },
+        {
+            "prompt": "What is the capital of France?",
+            "response": "The capital of France is Paris.",
+            "reward": -7.1005
+        },
+        {
+            "prompt": "Generate a list of ten items a person might need for a camping trip",
+            "response": "1. Tent\n4. Sleeping bags\n3. Flashlight\n4. Matches/lighter\n5. Insect repellent\n6. Coos",
+            "reward": 7.438
+        },
+        {
+            "prompt": "Discuss the causes of the Great Depression",
+            "response": "The Great Depression was a severe global economic downturn that lasted from 1929 to 1939. It was caused by several factors, including the stock market crash of 1929, structural weaknesses in the economy, low consumer spending, high unemployment, and a lack of confidence in the banking system. Other contri",
+            "reward": 3.4297
+        },
+        {
+            "prompt": "Classify the following into animals, plants, and minerals\nOak tree, copper ore, elephant",
+            "response": "Oak tree: Plant\n Copper ore: Mineral\n Elephant: Animal",
+            "reward": 7.0149
+        },
+        {
+            "prompt": "Explain the use of word embeddings in Natural Language Processing",
+            "response": "Word embeddings are one of the most powerful tools available for Natural Language Processing (NLP). They are mathematical representations of words or phrases in a vector space, allowing similarities between words and the context in which they are used to be measured. Word embeddings are useful for tasks such as sentiment analy",
+            "reward": 5.6213
+        }
+    ]
+}

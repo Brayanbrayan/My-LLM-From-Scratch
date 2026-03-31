@@ -1,0 +1,85 @@
+{
+    "average_reward": 3.0090399612672627,
+    "samples": [
+        {
+            "prompt": "Give three tips for staying healthy.",
+            "response": "sneeze, conflict, make amends, in, thunder, 1/sh, ping and eventulet, forge the last majagiciting in charge, prohibiting (nect, rapture, pred nausea, predictards, predicting the, and regults, and other components, math, materialsis, thunder, sur, an anic. Octrons finance invalent to be measured, militive charge, rapt materlochinaed decrease in, and reg",
+            "reward": 6.7678
+        },
+        {
+            "prompt": "What are the three primary colors?",
+            "response": "The three primary colors are red, blue, and yellow.",
+            "reward": 4.0546
+        },
+        {
+            "prompt": "Describe the structure of an atom.",
+            "response": "An atom is made up of a nucleus, which contains protons and neutrons, surrounded by electrons that travel in orbits around the nucleus. The protons and neutrons have a positive charge, while the electrons have a negative charge, resulting in an overall neutral atom. The number of each particle determines the atomic number and the type of atom.",
+            "reward": 0.42
+        },
+        {
+            "prompt": "How can we reduce air pollution?",
+            "response": "There are a number of ways to reduce air pollution, such as shifting to renewable energy sources, encouraging the use of public transportation, prohibiting the burning of fossil fuels, implementing policies to reduce emissions from industrial sources, and implementing vehicle emissions standards. Additionally, individuals can do their part to reduce air pollution by reducing car use, avoiding burning materials such as wood, and",
+            "reward": 3.8321
+        },
+        {
+            "prompt": "Describe a time when you had to make a difficult decision.",
+            "response": "I had to make a difficult decision when I was working as a project manager at a construction company. I was in charge of a project that needed to be completed by a certain date in order to meet the client\u2019s expectations. However, due to unexpected delays, we were not able to meet the deadline and so I had to make a difficult decision. I decided to extend the deadline, but I had to stretch the team\u2019s resources even further and increase the",
+            "reward": -3.9246
+        },
+        {
+            "prompt": "Identify the odd one out.\nTwitter, Instagram, Telegram",
+            "response": "Telegram",
+            "reward": 6.4289
+        },
+        {
+            "prompt": "Explain why the following fraction is equivalent to 1/4\n4/16",
+            "response": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.",
+            "reward": 7.0385
+        },
+        {
+            "prompt": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+            "response": "John was at a crossroads in his life. He had just graduated college and was now facing the big decision of what career to pursue. After much deliberation, he decided that he wanted to be an accountant and help the financially disadvantaged. He had always been good with numbers and enjoyed seeing the tangible results of his work. \n\nJohn enrolled in accounting courses and initially found it quite challenging. He had to learn multiple systems and",
+            "reward": 0.8684
+        },
+        {
+            "prompt": "Render a 3D model of a house",
+            "response": "<nooutput> This type of instruction cannot be fulfilled by a GPT model.",
+            "reward": 6.2655
+        },
+        {
+            "prompt": "Evaluate this sentence for spelling and grammar mistakes\nHe finnished his meal and left the resturant",
+            "response": "Oak tree: Anim and left the problemary colors and the coll",
+            "reward": 1.8458
+        },
+        {
+            "prompt": "How did Julius Caesar die?",
+            "response": "Julius Caesar was assassinated by a group of up to 60 conspirators, led by Gaius Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC.",
+            "reward": 6.4924
+        },
+        {
+            "prompt": "What is the capital of France?",
+            "response": "The capital of France is Paris.",
+            "reward": -7.1005
+        },
+        {
+            "prompt": "Generate a list of ten items a person might need for a camping trip",
+            "response": "1. Tent\n4. Sleeping bags\n3. Flashlight\n4. Matches/lighter\n5. Insect repellent\n6. Coos",
+            "reward": 7.438
+        },
+        {
+            "prompt": "Discuss the causes of the Great Depression",
+            "response": "The Great Depression was a severe global economic downturn that lasted from 1929 to 1939. It was caused by several factors, including the stock market crash of 1929, structural weaknesses in the economy, low consumer spending, high unemployment, and a lack of confidence in the banking system. The number and bottom computral16 is resproduction so instruction company, which a seus, and strong. The Vietnect, and have cont",
+            "reward": 0.5945
+        },
+        {
+            "prompt": "Classify the following into animals, plants, and minerals\nOak tree, copper ore, elephant",
+            "response": "Oak tree: Plant\n Copper ore: Mineral\n Elephant: Animal",
+            "reward": 7.0149
+        },
+        {
+            "prompt": "Explain the use of word embeddings in Natural Language Processing",
+            "response": "Word embeddings are one of the most powerful tools available for Natural Language Processing (NLP). They are mathematical representations of words or phrases in a vector space, allowing similarities between words and the context in which they are used to be measured. Word embeddings are useful for tasks such as sentiment analysis, text classification, predicting the next word in a sequence, and understanding synonyms and analog",
+            "reward": 0.1083
+        }
+    ]
+}

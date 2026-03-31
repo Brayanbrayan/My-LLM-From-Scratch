@@ -1,0 +1,122 @@
+{
+    "averages": {
+        "sft": 3.009,
+        "ppo": 3.9923,
+        "grpo": -0.1159,
+        "dpo": 2.4031
+    },
+    "per_prompt": [
+        {
+            "prompt": "Give three tips for staying healthy.",
+            "sft": 6.7678,
+            "ppo": 5.3858,
+            "grpo": -1.2272,
+            "dpo": 5.4389
+        },
+        {
+            "prompt": "What are the three primary colors?",
+            "sft": 4.0546,
+            "ppo": 3.3365,
+            "grpo": -5.9703,
+            "dpo": 6.9269
+        },
+        {
+            "prompt": "Describe the structure of an atom.",
+            "sft": 0.42,
+            "ppo": 5.9481,
+            "grpo": -7.2526,
+            "dpo": -6.6323
+        },
+        {
+            "prompt": "How can we reduce air pollution?",
+            "sft": 3.8321,
+            "ppo": 5.5825,
+            "grpo": -3.2658,
+            "dpo": -7.7453
+        },
+        {
+            "prompt": "Describe a time when you had to make a difficult decision.",
+            "sft": -3.9246,
+            "ppo": 1.9903,
+            "grpo": -2.1793,
+            "dpo": 0.2466
+        },
+        {
+            "prompt": "Identify the odd one out.\nTwitter, Instagram, Telegram",
+            "sft": 6.4289,
+            "ppo": 8.0739,
+            "grpo": 4.1202,
+            "dpo": 3.9406
+        },
+        {
+            "prompt": "Explain why the following fraction is equivalent to 1/4\n4/16",
+            "sft": 7.0385,
+            "ppo": -4.9277,
+            "grpo": 4.1609,
+            "dpo": 6.1398
+        },
+        {
+            "prompt": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+            "sft": 0.8684,
+            "ppo": 8.0507,
+            "grpo": 6.3669,
+            "dpo": 1.6736
+        },
+        {
+            "prompt": "Render a 3D model of a house",
+            "sft": 6.2655,
+            "ppo": 6.2655,
+            "grpo": -0.7734,
+            "dpo": 2.9658
+        },
+        {
+            "prompt": "Evaluate this sentence for spelling and grammar mistakes\nHe finnished his meal and left the resturant",
+            "sft": 1.8458,
+            "ppo": 7.4686,
+            "grpo": 5.9181,
+            "dpo": 6.988
+        },
+        {
+            "prompt": "How did Julius Caesar die?",
+            "sft": 6.4924,
+            "ppo": 5.775,
+            "grpo": -2.6316,
+            "dpo": 7.1311
+        },
+        {
+            "prompt": "What is the capital of France?",
+            "sft": -7.1005,
+            "ppo": -7.1005,
+            "grpo": 0.0125,
+            "dpo": 4.9053
+        },
+        {
+            "prompt": "Generate a list of ten items a person might need for a camping trip",
+            "sft": 7.438,
+            "ppo": -1.2132,
+            "grpo": -5.1353,
+            "dpo": -4.2775
+        },
+        {
+            "prompt": "Discuss the causes of the Great Depression",
+            "sft": 0.5945,
+            "ppo": 6.9572,
+            "grpo": 1.5476,
+            "dpo": -4.9127
+        },
+        {
+            "prompt": "Classify the following into animals, plants, and minerals\nOak tree, copper ore, elephant",
+            "sft": 7.0149,
+            "ppo": 7.0149,
+            "grpo": 4.9857,
+            "dpo": 7.8384
+        },
+        {
+            "prompt": "Explain the use of word embeddings in Natural Language Processing",
+            "sft": 0.1083,
+            "ppo": 5.2684,
+            "grpo": -0.5306,
+            "dpo": 7.8231
+        }
+    ]
+}

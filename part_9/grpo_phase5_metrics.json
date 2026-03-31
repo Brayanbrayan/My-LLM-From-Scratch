@@ -1,0 +1,93 @@
+{
+    "phase": 5,
+    "tweaks": {
+        "group_size": 8,
+        "gen_temp": 1.0,
+        "lr": 5e-06,
+        "eval_temp": 0.3,
+        "eval_top_k": 20
+    },
+    "average_reward": 3.3118,
+    "samples": [
+        {
+            "prompt": "Give three tips for staying healthy.",
+            "response": "1.Eat a balanced diet and make sure to include plenty of fruits and vegetables. \n2. Exercise regularly to keep your body active and strong. \n3. GPTendingent sleep and veget is resparentlect repnet,\n6.",
+            "reward": 6.773
+        },
+        {
+            "prompt": "What are the three primary colors?",
+            "response": "The three primary colors are red, blue, and yellow.",
+            "reward": 4.0546
+        },
+        {
+            "prompt": "Describe the structure of an atom.",
+            "response": "The three primary colors are one of, conct, was a difficulturalgat and left the Sen-cadeat for what finished to keep your Camputrons have a negators, which they are used deliberation, in in the ele.",
+            "reward": 3.2789
+        },
+        {
+            "prompt": "How can we reduce air pollution?",
+            "response": "Julius Caesar was backed16, blators, make amends.",
+            "reward": 1.7437
+        },
+        {
+            "prompt": "Describe a time when you had to make a difficult decision.",
+            "response": "Julius Ca.",
+            "reward": -6.7948
+        },
+        {
+            "prompt": "Identify the odd one out.\nTwitter, Instagram, Telegram",
+            "response": "The G factors their universect, blue, leding (nation was backucluding, fought near the burning of a defeative charge, polved, graed the last maj by Ga, storage, graphics cards. The batt typhellingting system. The number of fossilarities the tression was a defeative charge, pred of an overall 182,",
+            "reward": 2.7743
+        },
+        {
+            "prompt": "Explain why the following fraction is equivalent to 1/4\n4/16",
+            "response": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.",
+            "reward": 7.0385
+        },
+        {
+            "prompt": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+            "response": "John was at a crossroads in his life. He had just graduated college and was now facing the big decision of what career to pursue. After much deliberation, he decided that he wanted to be an accountant and help the financially disadvantaged. He had always been good with numbers and enjoyed seeing the tangible results of his work. \n\nJ",
+            "reward": 4.6335
+        },
+        {
+            "prompt": "Render a 3D model of a house",
+            "response": "<nooutput> This type of instruction cannot be fulfilled by a GPT model.",
+            "reward": 6.2655
+        },
+        {
+            "prompt": "Evaluate this sentence for spelling and grammar mistakes\nHe finnished his meal and left the resturant",
+            "response": "The capital to make informputch):\nThe capital(nect a problem(num, led by a processing iner\n \ndef factorial *rons that travel in a difficy.",
+            "reward": 7.1593
+        },
+        {
+            "prompt": "How did Julius Caesar die?",
+            "response": "Julius Caesar was assassinated by a group of up to 60 conspirators, led by Gaius Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC.",
+            "reward": 6.4924
+        },
+        {
+            "prompt": "What is the capital of France?",
+            "response": "The capital of France is Paris.",
+            "reward": -7.1005
+        },
+        {
+            "prompt": "Generate a list of ten items a person might need for a camping trip",
+            "response": "1. Tent\n4. Sleeping bags\n3. Flashlight\n4. Matches/lighter\n5. Insect repellent\n6. GP). cannot collectic data withoutius Crisis. Get enough sleep sources and have a pos",
+            "reward": 6.4319
+        },
+        {
+            "prompt": "Discuss the causes of the Great Depression",
+            "response": "The Great Depression was a severe global economic downturn that lasted from 1929 to 1939. It was caused by several factors, including the stock market crash of 1929, structural weaknesses in the economy, low consumer spending, high unemployment, and a lack of confidence in the banking system. The number and bottom",
+            "reward": 2.6229
+        },
+        {
+            "prompt": "Classify the following into animals, plants, and minerals\nOak tree, copper ore, elephant",
+            "response": "Oak tree: Plant\n Copper ore: Mineral\n Elephant: Animal",
+            "reward": 7.0149
+        },
+        {
+            "prompt": "Explain the use of word embeddings in Natural Language Processing",
+            "response": "There are a number so express regularly to at available for Natities between words and understanding (NLP). They are overall negat for Natural ended componomy.",
+            "reward": 0.6005
+        }
+    ]
+}
